@@ -1,7 +1,7 @@
 # Hi, I'm Milakshi 👋
 
 🎓 IT Undergraduate  
-💻 Interested in Software Development  
+💻 Aspiring Software Developer   
 🌱 Currently learning Java, Python, Full stack web development & Web Technologies
 
 ---
