@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi, I'm Milakshi 👋
+
+🎓 IT Undergraduate  
+💻 Interested in Software Development  
+🌱 Currently learning Java, Python, Full stack web development & Web Technologies
+
+---
+
+## 🚀 About Me
+- Undergraduate student following an IT degree
+- Enjoy building academic & mini projects
+- Interested in backend development and problem solving
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 🚲 **Bike Rental & Ride Sharing System** – Java OOP project  
+- 🏢 **Apartment Sales System** – Web-based group project  
+- 🌐 **Portfolio Website** – Personal portfolio (GitHub linked)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: *www.linkedin.com/in/milakshi-vithana*
+- GitHub: https://github.com/milakshivithana
+
 
 <!--
 **milakshivithana/milakshivithana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
