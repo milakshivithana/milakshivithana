@@ -2,7 +2,7 @@
 
 🎓 IT Undergraduate  
 💻 Aspiring Software Developer   
-🌱 Currently learning Java, Python, Full stack web development & Web Technologies
+🌱 Currently learning Java, Python, C++ Full stack web development & Web Technologies
 
 ---
 
