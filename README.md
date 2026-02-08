@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - Undergraduate student following an IT degree
 - Experience with academic and group projects
-- Interested in backend development and problem solving
+- Interested in problem solving
 - Actively improving coding
 
 ---
