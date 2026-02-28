@@ -18,7 +18,7 @@
 - **Languages:** Java, Python  
 - **Web:** HTML, CSS, JavaScript  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
