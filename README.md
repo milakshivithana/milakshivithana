@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python  
 - **Web:** HTML, CSS, JavaScript  
-- **Databases:** MySQL  
+- **Databases:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code
 
 ---
