@@ -1,50 +1,32 @@
-# Hi, I'm Milakshi 👋 
+# Hi, I'm Milakshi 👋
 
-🎓 IT Undergraduate  
-💻 Aspiring Software Developer   
-🌱 Currently learning Javascript, CSS, React, Full stack web development & Web Technologies
-
----
+🎓 Software Engineering Undergraduate @ SLIIT
+💻 Aspiring Software Engineer & Product Designer
+🌱 Currently exploring: Product Design, Next.js, Tailwind CSS, & Full-Stack Development
 
 ## 🚀 About Me
-- Undergraduate student following an IT degree
-- Experience with academic and group projects
-- Interested in problem solving
-- Actively improving coding
 
----
+- 🎓 Software Engineering undergraduate at the Sri Lanka Institute of Information Technology (SLIIT).
+- 💡 Passionate about building scalable full-stack applications and creating intuitive digital experiences.
+- 🎨 Currently transitioning my focus toward **Product Design** while actively seeking a **Software Engineering internship**.
+- 🤝 Experienced in collaborating on dynamic group projects and handling system analytics, database schemas, and modern UI layouts.
+- 🏆 Certified in SQL, Python, and Problem Solving via HackerRank.
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python  
-- **Web:** HTML, CSS, JavaScript  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
----
+- **Languages:** Java, Python, JavaScript
+- **Web & Frameworks:** Next.js, React, HTML, CSS, Tailwind CSS
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Vercel, Netlify, Railway
 
 ## 📌 Projects
-- 🚲 **Bike Rental & Ride Sharing System** – Java OOP project  
-- 🏢 **Apartment Sales System** – Web-based group project  
-- 🌐 **Portfolio Website** – Personal portfolio (GitHub linked)
 
----
+- 🏢 **RentEase** – A property management platform. Handled the Ratings, Reviews, and System Analytics modules.
+- 🏢 **Apartment Sales System** – Web-based group project.
+- 🚲 **Bike Rental & Ride Sharing System** – A Java OOP project featuring booking and payment functionalities.
+- 🌐 **Portfolio Website** – Personal portfolio to showcase my journey and projects.
 
 ## 📫 Connect with Me
-- LinkedIn: *www.linkedin.com/in/milakshi-vithana*
-- GitHub: https://github.com/milakshivithana
 
-
-<!--
-**milakshivithana/milakshivithana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [linkedin.com/in/milakshi-vithana](https://www.linkedin.com/in/milakshi-vithana)
+- **GitHub:** [github.com/milakshivithana](https://github.com/milakshivithana)
