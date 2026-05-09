@@ -1,7 +1,7 @@
 # Hi, I'm Milakshi 👋
 
-🎓 Software Engineering Undergraduate @ SLIIT
-💻 Aspiring Software Engineer & Product Designer
+🎓 Software Engineering Undergraduate @ SLIIT <br>
+💻 Aspiring Software Engineer & Product Designer <br>
 🌱 Currently exploring: Product Design, Next.js, Tailwind CSS, & Full-Stack Development
 
 ## 🚀 About Me
