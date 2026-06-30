@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** HTML, CSS, Java, Python, JavaScript, PHP
+* **Languages:** Java, Python, JavaScript, PHP
 * **Web & Frameworks:** Next.js, React, Laravel, Alpine.js, HTML, CSS, Tailwind CSS
 * **Databases:** MySQL, MongoDB
 * **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Vercel, Netlify, Railway
