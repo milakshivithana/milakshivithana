@@ -27,4 +27,9 @@
 - 🚗 **Vehicle Price Analysis System** – A machine learning-based price prediction and analysis system developed using Python.
 - 🏢 **Apartment Sales Management System** – A centralized web-based group project for managing property listings, customer bookings, and sales data.
 - 🚲 **Bike Rental & Ride Sharing System** – A Java OOP application featuring vehicle booking, availability tracking, and payment workflows.
-- 🌐 **Portfolio Website** – Personal developer portfolio showcasing
+- 🌐 **Portfolio Website** – Personal developer portfolio showcasing my software engineering projects and technical skills.
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/milakshi-vithana](https://www.linkedin.com/in/milakshi-vithana)
+- **GitHub:** [github.com/milakshivithana](https://github.com/milakshivithana)
